@@ -1,0 +1,17 @@
+table
+{
+  border:solid;
+}
+@media only screen and(max-width:600px)
+{
+#temp1{
+border:solid blue;
+}
+.temp1{
+border:solid greenyellow
+}
+table{
+
+border:solid yellow !important;
+}
+}
